@@ -1,0 +1,33 @@
+.footer-logos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-logos img {
+    width: 50px;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    background: #333;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+footer .text {
+    color: #FEFAE0;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+footer a {
+    color: #FEFAE0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #f2f4f8;
+}
